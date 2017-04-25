@@ -1,7 +1,7 @@
 {
-  "name": "jcscript",
+  "name": "jcscript-mlb",
   "version": "1.3.2",
-  "description": "JCScript",
+  "description": "JCScript Fork for private MLB project",
   "dependencies": {
     "es6-mixins": "^1.0.2",
     "events": "^1.1.1",
@@ -33,7 +33,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/JoshuaCWebDeveloper/jcscript.git"
+    "url": "https://github.com/stainlesscode/jcscript-mlb.git"
   },
   "author": "Joshua Carter",
   "license": "UNLICENSED"
